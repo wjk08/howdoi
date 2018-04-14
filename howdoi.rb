@@ -31,7 +31,7 @@ class Howdoi < Formula
 	end
 
   resource "pyquery" do
-		url "https://pypi.python.org/packages/e6/77/05b500811e360e53a254ca1f452e1e2f38b5284367e1172867b921d8020d/pyquery-1.2.11.tar.gz"
+		url "https://pypi.python.org/packages/e4/46/596311bb390c902b61499ff9fd5a355cdf85c8455737cb0f08c6c2c13e22/pyquery-1.4.0.tar.gz"
 		sha256 "4a832ba73bfba03486f5445c75993a26bf62d38d26ff5fcfbde06a7bd0087fc6"
 	end
 
